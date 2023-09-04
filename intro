@@ -1,0 +1,13 @@
+Petite introduction du R
+# Découverte de l'environnement de R 
+# creation de projets
+# Création d'un nouveau fichier script 
+# Creation de dossier
+# Installation des packages
+Prise en main
+
+nom <-c("Dakar", "Saint-Louis", "Fatick")
+pop <-c(22,35, 45)
+taux<-c(34,56,22)
+ 
+tabl <-data.frame(nom,pop,taux)
